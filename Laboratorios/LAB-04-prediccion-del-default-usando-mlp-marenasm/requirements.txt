@@ -1,0 +1,5 @@
+ipykernel
+pandas
+pytest
+xlrd
+scikit-learn==1.7.2
